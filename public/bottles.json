@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "Hydro Flask Standard Mouth",
+    "brand": "Hydro Flask",
+    "capacity": "621ml",
+    "material": "Stainless Steel",
+    "color": "Black",
+    "price": 39.95,
+    "description": "Double-wall vacuum insulated bottle that keeps drinks cold for up to 24 hours and hot for up to 12 hours.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 2,
+    "name": "YETI Rambler",
+    "brand": "YETI",
+    "capacity": "769ml",
+    "material": "Stainless Steel",
+    "color": "Navy",
+    "price": 40.00,
+    "description": "Durable insulated bottle with a leak-resistant cap, designed for outdoor adventures and daily use.",
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+  },
+  {
+    "id": 3,
+    "name": "Nalgene Wide Mouth",
+    "brand": "Nalgene",
+    "capacity": "1L",
+    "material": "Tritan",
+    "color": "Blue",
+    "price": 16.99,
+    "description": "Lightweight BPA-free bottle with a wide-mouth opening for easy cleaning and ice cubes.",
+    "image": "https://i.pinimg.com/1200x/44/6d/75/446d75455ffda397064469e130ed0181.jpg"
+  },
+  {
+    "id": 4,
+    "name": "CamelBak Eddy+",
+    "brand": "CamelBak",
+    "capacity": "750ml",
+    "material": "Plastic",
+    "color": "Red",
+    "price": 18.99,
+    "description": "Features a flip-and-sip straw design that provides convenient hydration during workouts and travel.",
+    "image": "https://i.pinimg.com/736x/d2/d0/6f/d2d06fd0bcdb515c1c01a114607f16ec.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Contigo Autoseal",
+    "brand": "Contigo",
+    "capacity": "710ml",
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "price": 24.99,
+    "description": "AUTOSEAL technology prevents leaks and spills while maintaining beverage temperature for hours.",
+    "image": "https://i.pinimg.com/1200x/aa/77/12/aa7712d63f5b67b99912c92d9b551481.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Takeya Actives",
+    "brand": "Takeya",
+    "capacity": "950ml",
+    "material": "Stainless Steel",
+    "color": "White",
+    "price": 29.99,
+    "description": "Powder-coated insulated bottle with a protective silicone bumper for extra durability.",
+    "image": "https://i.pinimg.com/1200x/c1/00/23/c1002300958d8cecde23e0dbb7ab8751.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Klean Kanteen Classic",
+    "brand": "Klean Kanteen",
+    "capacity": "800ml",
+    "material": "Stainless Steel",
+    "color": "Green",
+    "price": 27.99,
+    "description": "Eco-friendly reusable bottle made from high-quality food-grade stainless steel.",
+    "image": "https://i.pinimg.com/1200x/c1/31/5f/c1315ffa6be06a18a75f19c08562c90e.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Brita Filter Bottle",
+    "brand": "Brita",
+    "capacity": "650ml",
+    "material": "Plastic",
+    "color": "Teal",
+    "price": 19.99,
+    "description": "Built-in water filter helps reduce chlorine taste and odor while on the go.",
+    "image": "https://i.pinimg.com/736x/e3/69/e8/e369e870f6efb5f4e3a1765c9f35dac8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "S'well Bottle",
+    "brand": "S'well",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "color": "White",
+    "price": 35.00,
+    "description": "Stylish triple-layer insulated bottle designed to keep beverages at ideal temperatures.",
+    "image": "https://i.pinimg.com/1200x/c8/51/fb/c851fb0b692d1b3a526325b6c4fd4525.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Simple Modern Summit",
+    "brand": "Simple Modern",
+    "capacity": "950ml",
+    "material": "Stainless Steel",
+    "color": "Mint",
+    "price": 24.99,
+    "description": "Large-capacity insulated bottle with multiple lid options for sports and travel.",
+    "image": "https://i.pinimg.com/1200x/b0/be/49/b0be49816b021c2f7b60745bcd58a041.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Iron Flask Sports",
+    "brand": "Iron Flask",
+    "capacity": "1L",
+    "material": "Stainless Steel",
+    "color": "Maroon",
+    "price": 31.99,
+    "description": "Heavy-duty insulated sports bottle with three interchangeable lids included.",
+    "image": "https://i.pinimg.com/736x/f3/c0/a9/f3c0a9161422b197bfd8f50ba7847eda.jpg"
+  },
+  {
+    "id": 12,
+    "name": "ThermoFlask Bottle",
+    "brand": "ThermoFlask",
+    "capacity": "1.2L",
+    "material": "Stainless Steel",
+    "color": "Black",
+    "price": 28.99,
+    "description": "Extra-large bottle perfect for long hikes, gym sessions, and all-day hydration.",
+    "image": "https://i.pinimg.com/736x/65/80/e5/6580e5745537f34263c90e16aa2d3422.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Polar Bottle Sport",
+    "brand": "Polar Bottle",
+    "capacity": "700ml",
+    "material": "Plastic",
+    "color": "Orange",
+    "price": 12.99,
+    "description": "Cycling-friendly squeeze bottle with insulating layers to keep water cooler longer.",
+    "image": "https://i.pinimg.com/1200x/4a/5a/db/4a5adbb7ed23556aaa6498e0e83be056.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Owala FreeSip",
+    "brand": "Owala",
+    "capacity": "710ml",
+    "material": "Stainless Steel",
+    "color": "Purple",
+    "price": 29.99,
+    "description": "Innovative dual-function lid allows both sipping through a straw and swigging directly.",
+    "image": "https://i.pinimg.com/736x/92/a8/ff/92a8ffe824a03aa5e4f1c0d33e7a5e09.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Stanley IceFlow",
+    "brand": "Stanley",
+    "capacity": "890ml",
+    "material": "Stainless Steel",
+    "color": "Rose",
+    "price": 35.00,
+    "description": "Popular insulated bottle featuring a flip straw and rugged construction.",
+    "image": "https://i.pinimg.com/736x/40/55/bb/4055bb89312837986dcb2ee4d4fc0f9c.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Aquafina Bottle",
+    "brand": "Aquafina",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 0.75,
+    "description": "Convenient single-use purified water bottle suitable for everyday hydration.",
+    "image": "https://i.pinimg.com/1200x/4b/7a/1a/4b7a1aa33ca325de4f7135a73aec8a40.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dasani Bottle",
+    "brand": "Dasani",
+    "capacity": "1L",
+    "material": "Plastic",
+    "color": "Clear",
+    "price": 1.25,
+    "description": "Purified drinking water bottle enhanced with minerals for a crisp taste.",
+    "image": "https://i.pinimg.com/1200x/3a/ed/19/3aed196d781076bbeff06b90cb8153d4.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Evian Bottle",
+    "brand": "Evian",
+    "capacity": "750ml",
+    "material": "Plastic",
+    "color": "Pink",
+    "price": 2.50,
+    "description": "Natural mineral water sourced from the French Alps and bottled at the source.",
+    "image": "https://i.pinimg.com/1200x/34/93/b6/3493b61d9cd65ec3cb17006997759fb1.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Fiji Water Bottle",
+    "brand": "Fiji",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 2.00,
+    "description": "Premium artesian water known for its smooth taste and iconic square bottle design.",
+    "image": "https://i.pinimg.com/736x/09/77/52/0977521b182783946e548ac69e8fc769.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Smartwater Bottle",
+    "brand": "Smartwater",
+    "capacity": "1L",
+    "material": "Plastic",
+    "color": "Silver",
+    "price": 2.25,
+    "description": "Vapor-distilled water with added electrolytes for a clean and refreshing taste.",
+    "image": "https://i.pinimg.com/1200x/16/be/b6/16beb6d09d3b7b043827f07c3841e942.jpg"
+  },
+  {
+    "id": 21  ,
+    "name": "Nalgene Wide Mouth",
+    "brand": "Nalgene",
+    "capacity": "1L",
+    "material": "Tritan",
+    "color": "Blue",
+    "price": 16.99,
+    "description": "Lightweight BPA-free bottle with a wide-mouth opening for easy cleaning and ice cubes.",
+    "image": "https://i.pinimg.com/1200x/44/6d/75/446d75455ffda397064469e130ed0181.jpg"
+  }
+]
