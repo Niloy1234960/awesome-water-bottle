@@ -1,7 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import "../App.css";
 
-const Bottle = ({ bottle, handleAddToCard}) => {
+const Bottle = ({ bottle, handleAddToCart}) => {
   const { name, brand, capacity, material, color, price, description, image } =
     bottle;
   return (
@@ -23,7 +23,8 @@ const Bottle = ({ bottle, handleAddToCard}) => {
 
         <div className="card-footer">
           <h3>${price}</h3>
-          <button onClick={() => handleAddToCard(bottle)}>Add to Cart</button>
+          <button onClick={() => handleAddToCart(bottle)}
+            >Add to Cart</button>
         </div>
       </div>
     </div>
