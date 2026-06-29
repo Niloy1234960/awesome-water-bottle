@@ -1,6 +1,7 @@
 import React, { use, useEffect, useState } from "react";
 import Bottle from "./Bottle";
 import { addItemToLocalStorage, getCartFromLocalStoreage } from "../utilities/AddToLocalStorage";
+import Cart from "./cart/Cart";
 
 const Bottles = ({ bottlesPromise }) => {
   const [cart, setCart] = useState([]);
@@ -23,7 +24,7 @@ const Bottles = ({ bottlesPromise }) => {
     }
 
     // console.log("stored cart", storedItem);
-    setCart(storedItem)
+    setCart(storedCart)
 
   }, [])
 
@@ -39,7 +40,7 @@ const Bottles = ({ bottlesPromise }) => {
     <div className="container">
       <h1 className="title">Total bottle: {bottles.length}</h1>
       <h3>Successfully added to cart: {cart.length}</h3>
-
+      <Cart cart={cart}></Cart>
       <div className="card-container">
         {bottles.map((bottle) => (
           <Bottle
